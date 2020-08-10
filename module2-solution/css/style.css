@@ -1,22 +1,16 @@
-
 * {
 	box-sizing: border-box;
 	font-family: arial;
 }
 
-
-
 h1 {
 	text-align: center;
 }
-
-
 
 section {
 	border: 1px solid black;
 	margin: 10px;
 	background-color: #e6e2d3
-
 }
 
 section.srk>h2 {
@@ -42,7 +36,6 @@ section>h2 {
 	height: 45px;
 	padding-top: 10px;
 }
-
 
 section>p {
     padding: 40px 15px 15px 15px;
